@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dynamic First Person Mobile/Scenes/Sample Scene.unity
+    guid: e6d99aad7379a1d42a740a623d5f5247
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: 1ee809e9242a64641a101f00b340f979, type: 2}
